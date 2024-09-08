@@ -46,7 +46,7 @@ Para testar a aplicação, utilizei o Insomnia na porta 8080, passando os endpoi
   "starts_at": "2024-06-25T21:51:54.7342",
   "ends_at": "2024-06-25T21:51:54.7342",
   "emails_to_invite": ["fwefwe.fWEF@wef.com"],
-  "owner_name": "wefwefwefsdfe3",
+  "owner_name": "testando",
   "owner_email": "teste.teste@lore.com"
 }
 
